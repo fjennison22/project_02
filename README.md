@@ -25,7 +25,7 @@ The line plots above are representative of a school's student population. The bl
 
 <br />
 
-![My Image](Figure_2.png)
+![My Image](canceled_flights.png)
 
 <br />
 
