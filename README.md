@@ -21,7 +21,7 @@ The line plots above are representative of a school's student population. The bl
 <br />
 <br />
 
-## Number of Cancelled Flights at Each Airport in the Year 2016
+## Number of Canceled Flights at Each Airport in the Year 2016
 
 <br />
 
@@ -29,7 +29,7 @@ The line plots above are representative of a school's student population. The bl
 
 <br />
 
-The bar graph shown above illustrates the amount of monhtly airline cancellations by airport for the year 2016. The dataset contains a list of dictionaries that contain monthly delay information by airport for the years 2003 through 2016. I wanted to look specifically at the number of cancelled flights per airport for the most recent year the dataset contained, 2016. The data is arranged in descending alphabetical order, Atlanta being at the bottom. The dataset I used can be accessed <a href="https://github.com/jdorfman/awesome-json-datasets#travel" target="_blank">here</a>.
+The bar graph shown above illustrates the amount of monhtly airline cancelations by airport for the year 2016. The dataset contains a list of dictionaries that contain monthly delay information by airport for the years 2003 through 2016. I wanted to look specifically at the number of canceled flights per airport for the most recent year the dataset contained, 2016. The data is arranged in descending alphabetical order, Atlanta being at the bottom. The dataset I used can be accessed <a href="https://github.com/jdorfman/awesome-json-datasets#travel" target="_blank">here</a>.
 
 <br />
 <br />
