@@ -8,7 +8,7 @@ The purpose of this project was to serve as practice downloading, reading, manip
 <br />
 <br />
 
-## Comparison of the Number of Students Above and Below the Age of 11 in District186 
+## Comparison of the Number of Students Above and Below the Age of 11 in District 186 
 
 <br />
 
